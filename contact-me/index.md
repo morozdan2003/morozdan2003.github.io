@@ -1,0 +1,13 @@
+# Контакты
+- E-mail: morozdan2003@gmail.com
+- Мессенджеры:
+  - Telegram: t.me/morozdan2003
+  - Jabber: morozdan2003@jabber.ru
+- Соцсети:
+  - VK: vk.com/morozdan2003
+  - Facebook: facebook.com/morozdan2003
+  - Официальная страница Facebook: facebook.com/morozdan2003blog
+  - Twitter: twitter.com/morozdan2003
+  - Mastodon: mastodon.ml/@morozdan2003
+  - Instagram: instagram.com/morozdan2003
+  - GitHub: github.com/morozdan2003
