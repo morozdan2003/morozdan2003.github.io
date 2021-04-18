@@ -1,5 +1,5 @@
 # Главная
-Меню: [Главная](https://morozdan2003.ru) [Контакты](https://morozdan2003.ru/contact-me)
+Меню: [Главная](https://morozdan2003.ru) [Контакты](https://morozdan2003.ru/contact-me) [Обо мне](https://morozdan2003.ru/about-me)
 
 Добро пожаловать на сайт-визитку и блог Морозюк Даниила.
 
