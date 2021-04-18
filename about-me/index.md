@@ -1,5 +1,7 @@
 # Обо мне
 
+![Мой портрет](https://github.com/morozdan2003/morozdan2003.github.io/blob/612ed40c8486e125840af35932ca778986414104/about-me/Sm4lCke6UmQ.jpg)
+
 ФИО: Морозюк Даниил Павлович
 
 День рождения: 8 мая 2003 года
