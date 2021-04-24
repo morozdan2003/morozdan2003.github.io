@@ -10,7 +10,7 @@ Full name: Morozyuk Daniil Pavlovich.
 
 Birthday: 8 May 2003.
 
-Profession: computer repairer (no seniority, i am self-taught).
+Profession: computer repairer (no seniority, I am self-taught).
 
 Languages: Russian (native), English (Pre-Intermediate).
 
