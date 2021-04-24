@@ -1,12 +1,29 @@
-# Контакты
+# Главная
+
+Welcome to Morozyuk Daniil's site! [Он также доступен на русском.](./index.md)
+
+# Обо мне
+
+![My portrait](./assets/portrait.jpg)
+
+Full name: Morozyuk Daniil Pavlovich.
+
+Birthday: 8 May 2003.
+
+Profession: computer repairer (no seniority, i am self-taught).
+
+Languages: Russian (native), English (Pre-Intermediate).
+
+Hobbies: IT experiments, PC repairing, photography, guitar.
+
+# Contact me
 - E-mail: [morozdan2003@gmail.com](mailto:morozdan2003@gmail.com)
-- Мессенджеры:
+- Messengers:
   - Telegram: [t.me/morozdan2003](https://t.me/morozdan2003)
   - Jabber: [morozdan2003@jabber.ru](xmpp:morozdan2003@jabber.ru)
-- Соцсети:
+- Social media:
   - VK: [vk.com/morozdan2003](https://vk.com/morozdan2003)
   - Facebook: [facebook.com/morozdan2003](https://facebook.com/morozdan2003)
-  - Официальная страница Facebook: [facebook.com/morozdan2003blog](https://facebook.com/morozdan2003blog)
   - Twitter: [twitter.com/morozdan2003](https://twitter.com/morozdan2003)
   - Mastodon: [mastodon.ml/@morozdan2003](https://mastodon.ml/@morozdan2003)
   - Instagram: [instagram.com/morozdan2003](https://instagram.com/morozdan2003)
