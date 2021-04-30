@@ -18,10 +18,10 @@ Hobbies: IT experiments, PC repairing, photography, guitar.
 
 # Contact me
 - E-mail: [morozdan2003@gmail.com](mailto:morozdan2003@gmail.com)
-- Мессенджеры:
+- Messengers:
   - Telegram: [t.me/morozdan2003](https://t.me/morozdan2003)
   - Jabber: [morozdan2003@jabber.ru](xmpp:morozdan2003@jabber.ru)
-- Соцсети:
+- Social media:
   - VK: [vk.com/morozdan2003](https://vk.com/morozdan2003)
   - Facebook: [facebook.com/morozdan2003](https://facebook.com/morozdan2003)
   - Twitter: [twitter.com/morozdan2003](https://twitter.com/morozdan2003)
