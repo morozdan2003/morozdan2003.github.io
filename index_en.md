@@ -1,6 +1,6 @@
 # Main page
 
-Welcome to Morozyuk Daniil's site! [Он также доступен на русскомю](./index.md)
+Welcome to Morozyuk Daniil's site! [Он также доступен на русском.](./index.md)
 
 # About me
 
